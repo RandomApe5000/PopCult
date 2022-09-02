@@ -60,9 +60,9 @@ const Header = () => {
                   <Menu.Items className="menu-overlay absolute right-0 mt-2 w-56 origin-top-right">
                     <div className="menu-container">
                       <ul className="list-nav">
-                        <li><Menu.Item><a href="#" target="_blank">How to mint</a></Menu.Item></li>
-                        <li><Menu.Item><a href="#" target="_blank">Whitepaper</a></Menu.Item></li>
-                        <li><Menu.Item><a href="#" target="_blank">Roadmap</a></Menu.Item></li>
+                        <li><Menu.Item><a href="https://popcult.io/how-to-mint-pop-cult-nfts/" target="_blank">How to mint</a></Menu.Item></li>
+                        <li><Menu.Item><a href="https://popcult.io/wp-content/uploads/2022/08/pop-cult-nft-whitepaper_2022-08-25.pdf" target="_blank">Whitepaper</a></Menu.Item></li>
+                        <li><Menu.Item><a href="https://popcult.io/#roadmap" target="_blank">Roadmap</a></Menu.Item></li>
                       </ul>
                       <ul className="list-social">
                         <li>
