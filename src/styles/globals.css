@@ -167,7 +167,7 @@ p a {
 
 @media screen and (max-width: 767px) {
   .img-booster {
-    max-width: 200px;
+    max-width: 100hv;
     margin: 0 auto; } }
 @media screen and (min-width: 768px) {
   .img-booster {
