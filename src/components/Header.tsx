@@ -22,12 +22,9 @@ const Header = () => {
     <nav className="nav">
       <div className="container">
         <div className="columns">
-
           <div className="column column-logo">
-            
             <div className="content">
-              
-              <h2 className="logo">Pop Cult NFT</h2>
+              <a href="https://popcult.io" target="_blank"><h2 className="logo">Pop Cult NFT</h2></a>
               <span className="logo-iwansmit">
                 <span>by</span>
                 <img
