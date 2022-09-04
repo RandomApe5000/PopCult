@@ -58,7 +58,7 @@ const Header = () => {
                     <div className="menu-container">
                       <ul className="list-nav">
                         <li><Menu.Item><a href="https://popcult.io/how-to-mint-pop-cult-nfts/" target="_blank">How to mint</a></Menu.Item></li>
-                        <li><Menu.Item><a href="https://popcult.io/wp-content/uploads/2022/08/pop-cult-nft-whitepaper_2022-08-25.pdf" target="_blank">Whitepaper</a></Menu.Item></li>
+                        <li><Menu.Item><a href="https://popcult.io/wp-content/uploads/2022/09/pop-cult-nft-projectpaper_2022-09-04.pdf.pdf" target="_blank">Projectpaper</a></Menu.Item></li>
                         <li><Menu.Item><a href="https://popcult.io/#roadmap" target="_blank">Roadmap</a></Menu.Item></li>
                       </ul>
                       <ul className="list-social">
