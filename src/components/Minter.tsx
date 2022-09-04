@@ -79,7 +79,7 @@ const Minter = () => {
                         <h6>Seed Sale is open</h6>
                       )}
                       {!isWhitelistSaleOpen && !isPublicSaleOpen && (
-                        <h6>Sale is Closed</h6>
+                        <h6>Sale is Paused</h6>
                       )}
                       {isPublicSaleOpen && (
                         <h6>Public sale is open</h6>
