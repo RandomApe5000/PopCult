@@ -84,7 +84,7 @@ const Minter = () => {
                       {isPublicSaleOpen && (
                         <h6>Public sale is open</h6>
                       )}
-                      <h1>{totalSupply}/{maxSupply} <span>Pop Cults Minted</span></h1>
+                      <h1>{totalSupply}<span>Pop Cults Minted</span></h1>
                     </div>
                     
                     
